@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+        <name>Slimbox 2 for Joomla!</name> 
+        <author>Christophe Beyls</author> 
+        <creationDate>2010-02-15</creationDate> 
+        <version>2.04</version> 
+        <description>Joomla! version of Slimbox 2. This module was created by Florian Ruechel, though original work was done by Christophe Beyls of http://www.digitalia.be</description>
+        <files>
+			<filename module="mod_slimbox">mod_slimbox.php</filename>
+			<filename>mod_slimbox.xml</filename>
+			<filename>js/slimbox2.js</filename>
+			<filename>css/closelabel.gif</filename>
+			<filename>css/loading.gif</filename>
+			<filename>css/nextlabel.gif</filename>
+			<filename>css/prevlabel.gif</filename>
+			<filename>css/slimbox2.css</filename>
+        </files>
+        <params />
+</install>
